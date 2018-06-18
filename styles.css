@@ -1,0 +1,38 @@
+body{
+    background-color: black;
+}
+
+.mainbody{
+    background-color: black;
+    width: auto;
+    height: auto;
+    text-align: center;
+}
+
+.textcontainer{
+    width: 100%;
+    text-align: center;
+}
+
+.biglogo img{
+    max-width: 100%;
+    height: auto;
+    width: auto\9; /* ie8 */
+}
+
+.maintenancemessage{
+    font-size: 25px;
+    font-family: 'Oswald', Helvetica, sans-serif;
+    color: white;
+    width: 100%;
+    text-align: center;
+}
+
+.maintenancemessage p{
+    text-align: center;
+}
+
+.maintenancemessage a{
+    text-decoration: none;
+    color: rgb(221, 221, 221);
+}
